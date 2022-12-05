@@ -17,3 +17,7 @@ First time
 => git add.
 => git commit -m "Text instruction file added"
 => git push
+
+
+
+#### .gitignore
